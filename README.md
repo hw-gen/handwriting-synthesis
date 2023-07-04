@@ -2,7 +2,7 @@
 
 # Handwriting Synthesis (TFv2)
 
-Original repo migrated to tensorflow v2 with better structure
+[Original repo](https://github.com/sjvasquez/handwriting-synthesis) migrated to tensorflow v2 with better structure.
 
 ---
 
